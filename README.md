@@ -21,6 +21,7 @@ I have about 3 years of experience developing applications using different techn
 <br>
 <br>
 <br>
+<br>
 <h2></h2>
 <div align="left"> 
   <a href="https://www.linkedin.com/in/john-keven-529149151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
