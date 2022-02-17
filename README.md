@@ -1,6 +1,6 @@
 ### Hi 👋 
 
-I am a full stack developer, graduated in information systems from Instituto Federal de Sergipe.
+I am a full stack developer, graduated in information systems from Federal Institute of Sergipe.
 
 I have about 3 years of experience developing applications using different technologies, so I strongly believe that I am able to adapt to work in different environments using different technologies when necessary. 
 
