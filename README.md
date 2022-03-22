@@ -1,8 +1,4 @@
-###
-
-I have about 3 years of experience developing applications using different technologies, so I strongly believe that I am able to adapt to work in different environments using different technologies when necessary. 
-
-<b>Here are some of my favorite technologies:</b>
+<b>Some of my favorite technologies:</b>
 <div align="left">
   <img align="center" alt="jk-flutter" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="jk-dart" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
