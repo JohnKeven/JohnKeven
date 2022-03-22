@@ -1,4 +1,4 @@
-### 👋 
+###
 
 I have about 3 years of experience developing applications using different technologies, so I strongly believe that I am able to adapt to work in different environments using different technologies when necessary. 
 
@@ -16,7 +16,7 @@ I have about 3 years of experience developing applications using different techn
    <img align="center" alt="jk-node" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
 </div> <br>
 <div align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnkeven&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnkeven&show_icons=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnkeven&layout=compact&langs_count=7"/>
 </div>
 <h2></h2>
