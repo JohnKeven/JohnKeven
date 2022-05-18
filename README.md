@@ -4,8 +4,8 @@
             
 </div> <br>
 <div align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnkeven&show_icons=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnkeven&layout=compact&langs_count=7"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=johnkeven&show_icons=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=johnkeven&layout=compact&langs_count=7"/>
 </div>
 <h2></h2>
 <div align="left"> 
